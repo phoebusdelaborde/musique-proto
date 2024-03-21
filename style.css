@@ -1,5 +1,39 @@
 .frise {
-  background-color: rgb(46, 27, 27);
-  width: 700px;
+  background-color: rgb(104, 29, 29);
+  min-width: 6080px;
   height: 100px;
+  position: absolute;
+  z-index: 0;
+}
+.date {
+  display: flex;
+  flex-direction: row;
+}
+.un {
+}
+.deux {
+  position: relative;
+  left: 4000px;
+}
+.trai {
+  width: 10px;
+  background-color: black;
+  height: 100px;
+}
+.frise-trai {
+  display: flex;
+
+  flex-direction: row;
+}
+.deuxtrai {
+  position: relative;
+  right: 4000px;
+}
+.petitedateun {
+  position: relative;
+  left: 1048px;
+}
+.modalun {
+  position: relative;
+  left: 1068px;
 }
