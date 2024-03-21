@@ -16,18 +16,18 @@
   left: 4000px;
 }
 .trai {
-  width: 10px;
+  width: 1px;
   background-color: black;
   height: 100px;
 }
-.frise-trai {
+.frise {
   display: flex;
-
+  align-items: center;
   flex-direction: row;
 }
 .deuxtrai {
   position: relative;
-  right: 4000px;
+  left: 3930px;
 }
 .petitedateun {
   position: relative;
@@ -36,4 +36,8 @@
 .modalun {
   position: relative;
   left: 1068px;
+}
+.moyenage {
+  position: relative;
+  left: 2000px;
 }

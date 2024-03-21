@@ -18,20 +18,20 @@
       <h3 class="petitedateun">662</h3>
       <h1 class="deux">1400</h1>
     </div>
-    <div class="frise-trai">
-      <div class="trai untrai"></div>
-      <div class="trai deuxtrai"></div>
-      <div class="frise"></div>
-    </div>
 
-    <button
-      type="button"
-      class="btn btn-primary modalun"
-      data-bs-toggle="modal"
-      data-bs-target="#exampleModal"
-    >
-      Decouvrir Audric
-    </button>
+    <div class="frise">
+      <div class="trai untrai"></div>
+      <button
+        type="button"
+        class="btn btn-primary modalun"
+        data-bs-toggle="modal"
+        data-bs-target="#exampleModal"
+      >
+        Decouvrir Audric
+      </button>
+      <h1 class="moyenage">MOYEN-AGE</h1>
+      <div class="trai deuxtrai"></div>
+    </div>
 
     <!-- Modal -->
     <div
@@ -59,9 +59,15 @@
             BLABLA BLABLA BLABLA
           </div>
           <div class="modal-footer">
-            <button type="button" class="btn btn-primary">Jouer un son</button>
-            <button type="button" class="btn btn-primary">Jouer un son</button>
-            <button type="button" class="btn btn-primary">Jouer un son</button>
+            <button type="button" id="moyen1" class="btn btn-primary">
+              Jouer un son
+            </button>
+            <button type="button" id="moyen2" class="btn btn-primary">
+              Jouer un son
+            </button>
+            <button type="button" id="moyen3" class="btn btn-primary">
+              Jouer un son
+            </button>
             <button
               type="button"
               class="btn btn-secondary"
@@ -73,7 +79,9 @@
         </div>
       </div>
     </div>
-
+    <div class="audio">
+      <audio id="moyen123" src="sf_chasse_deau.mp3"></audio>
+    </div>
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
       integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
