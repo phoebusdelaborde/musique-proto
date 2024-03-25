@@ -41,3 +41,42 @@
   position: relative;
   left: 2000px;
 }
+.class {
+  margin-top: 100px;
+  display: flex;
+}
+.a {
+  position: relative;
+  left: 600px;
+  font-size: 70px;
+}
+.b {
+  position: relative;
+  left: 1200px;
+  font-size: 70px;
+}
+.c {
+  position: relative;
+  left: 1800px;
+  font-size: 70px;
+}
+.d {
+  position: relative;
+  left: 2400px;
+  font-size: 70px;
+}
+.e {
+  position: relative;
+  left: 3000px;
+  font-size: 70px;
+}
+.f {
+  position: relative;
+  left: 3600px;
+  font-size: 70px;
+}
+.g {
+  position: relative;
+  left: 4200px;
+  font-size: 70px;
+}
