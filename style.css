@@ -1,6 +1,6 @@
 .frise {
   background-color: rgb(104, 29, 29);
-  min-width: 6080px;
+  min-width: 15000px;
   height: 100px;
   position: absolute;
   z-index: 0;
@@ -13,7 +13,15 @@
 
 .deux {
   position: relative;
-  left: 4000px;
+  left: 2500px;
+}
+.trois {
+  position: relative;
+  left: 5000px;
+}
+.quatre {
+  position: relative;
+  left: 7900px;
 }
 .trai {
   width: 1px;
@@ -27,19 +35,131 @@
 }
 .deuxtrai {
   position: relative;
-  left: 3930px;
+  left: 1950px;
+}
+.troistrai {
+  position: relative;
+  left: 3680px;
+}
+.quatretrai {
+  position: relative;
+  left: 5380px;
 }
 .petitedateun {
   position: relative;
-  left: 1048px;
+  left: 1000px;
 }
-.modalun {
+.petitedatedeux {
   position: relative;
-  left: 1068px;
+  left: 1300px;
+}
+.petitedatetrois {
+  position: relative;
+  left: 1600px;
+}
+.petitedatequatre {
+  position: relative;
+  left: 3080px;
+}
+.petitedatecinq {
+  position: relative;
+  left: 3350px;
+}
+.petitedatesix {
+  position: relative;
+  left: 4100px;
+}
+.petitedatesept {
+  position: relative;
+  left: 4670px;
+}
+.petitedate8 {
+  position: relative;
+  left: 5350px;
+}
+.petitedate9 {
+  position: relative;
+  left: 5730px;
+}
+.petitedate10 {
+  position: relative;
+  left: 6275px;
+}
+.petitedate11 {
+  position: relative;
+  left: 6765px;
+}
+.petitedate12 {
+  position: relative;
+  left: 7325px;
+}
+
+.a1 {
+  position: relative;
+  left: 750px;
+}
+.a2 {
+  position: relative;
+  left: 900px;
+}
+.a3 {
+  position: relative;
+  left: 1100px;
+}
+.a4 {
+  position: relative;
+  left: 2500px;
+}
+.a5 {
+  position: relative;
+  left: 2600px;
+}
+.a6 {
+  position: relative;
+  left: 3200px;
+}
+.a7 {
+  position: relative;
+  left: 3600px;
+}
+/**/
+.a8 {
+  position: relative;
+  left: 4000px;
+}
+.a9 {
+  position: relative;
+  left: 4200px;
+}
+.a10 {
+  position: relative;
+  left: 4600px;
+}
+.a11 {
+  position: relative;
+  left: 4900px;
+}
+.a12 {
+  position: relative;
+  left: 5300px;
+  bottom: 20px;
+}
+.a13 {
+  position: relative;
+  left: 5050px;
+  top: 20px;
 }
 .moyenage {
   position: relative;
-  left: 2000px;
+  left: 400px;
+}
+.renaissance {
+  position: relative;
+  left: 1200px;
+}
+.baroque {
+  position: relative;
+  left: 2300px;
 }
 .class {
   margin-top: 100px;
