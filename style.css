@@ -2,7 +2,7 @@
 
 .frise {
   background-color: rgb(104, 29, 29);
-  min-width: 20000px;
+  min-width: 23000px;
   height: 100px;
   position: absolute;
   z-index: 0;
@@ -159,6 +159,38 @@
   position: relative;
   left: 14820px;
 }
+.petitedate25 {
+  position: relative;
+  left: 15920px;
+}
+.petitedate26 {
+  position: relative;
+  left: 16470px;
+}
+.petitedate27 {
+  position: relative;
+  left: 16820px;
+}
+.petitedate28 {
+  position: relative;
+  left: 17320px;
+}
+.petitedate29 {
+  position: relative;
+  left: 17800px;
+}
+.petitedate30 {
+  position: relative;
+  left: 18400px;
+}
+.petitedate31 {
+  position: relative;
+  left: 19050px;
+}
+.petitedate32 {
+  position: relative;
+  left: 19700px;
+}
 .a1 {
   position: relative;
   left: 750px;
@@ -274,35 +306,35 @@
 }
 .a28 {
   position: relative;
-  left: 9600px;
+  left: 10500px;
 }
 .a29 {
   position: relative;
-  left: 9600px;
+  left: 10900px;
 }
 .a30 {
   position: relative;
-  left: 9600px;
+  left: 11100px;
 }
 .a31 {
   position: relative;
-  left: 9600px;
+  left: 11500px;
 }
 .a32 {
   position: relative;
-  left: 9600px;
+  left: 11800px;
 }
 .a33 {
   position: relative;
-  left: 9600px;
+  left: 12300px;
 }
 .a34 {
   position: relative;
-  left: 9600px;
+  left: 12800px;
 }
 .a35 {
   position: relative;
-  left: 9600px;
+  left: 13300px;
 }
 .moyenage {
   position: relative;
