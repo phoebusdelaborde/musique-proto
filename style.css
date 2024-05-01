@@ -161,6 +161,10 @@
   position: relative;
   left: 2300px;
 }
+.classique {
+  position: relative;
+  left: 5600px;
+}
 .class {
   margin-top: 100px;
   display: flex;
