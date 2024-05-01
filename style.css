@@ -1,6 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
 .frise {
   background-color: rgb(104, 29, 29);
-  min-width: 15000px;
+  min-width: 20000px;
   height: 100px;
   position: absolute;
   z-index: 0;
@@ -23,6 +25,14 @@
   position: relative;
   left: 7900px;
 }
+.cinq {
+  position: relative;
+  left: 11400px;
+}
+.six {
+  position: relative;
+  left: 15400px;
+}
 .trai {
   width: 1px;
   background-color: black;
@@ -44,6 +54,14 @@
 .quatretrai {
   position: relative;
   left: 5380px;
+}
+.cinqtrai {
+  position: relative;
+  left: 7700px;
+}
+.sixtrai {
+  position: relative;
+  left: 10160px;
 }
 .petitedateun {
   position: relative;
@@ -93,7 +111,54 @@
   position: relative;
   left: 7325px;
 }
-
+.petitedate13 {
+  position: relative;
+  left: 8530px;
+}
+.petitedate14 {
+  position: relative;
+  left: 8820px;
+}
+.petitedate15 {
+  position: relative;
+  left: 9450px;
+}
+.petitedate16 {
+  position: relative;
+  left: 10145px;
+}
+.petitedate17 {
+  position: relative;
+  left: 10425px;
+}
+.petitedate18 {
+  position: relative;
+  left: 11170px;
+}
+.petitedate19 {
+  position: relative;
+  left: 11970px;
+}
+.petitedate20 {
+  position: relative;
+  left: 12270px;
+}
+.petitedate21 {
+  position: relative;
+  left: 12570px;
+}
+.petitedate22 {
+  position: relative;
+  left: 13100px;
+}
+.petitedate23 {
+  position: relative;
+  left: 13970px;
+}
+.petitedate24 {
+  position: relative;
+  left: 14820px;
+}
 .a1 {
   position: relative;
   left: 750px;
@@ -149,6 +214,96 @@
   left: 5050px;
   top: 20px;
 }
+.a14 {
+  position: relative;
+  left: 5800px;
+}
+.a15 {
+  position: relative;
+  left: 5900px;
+}
+.a16 {
+  position: relative;
+  left: 6300px;
+}
+.a17 {
+  position: relative;
+  left: 4300px;
+}
+.a18 {
+  position: relative;
+  left: 6900px;
+}
+.a19 {
+  position: relative;
+  left: 7500px;
+}
+.a20 {
+  position: relative;
+  left: 8000px;
+}
+.a21 {
+  position: relative;
+  left: 8100px;
+  top: 50px;
+}
+.a22 {
+  position: relative;
+  left: 7850px;
+}
+.a23 {
+  position: relative;
+  left: 7650px;
+  bottom: 50px;
+}
+.a24 {
+  position: relative;
+  left: 7800px;
+}
+.a25 {
+  position: relative;
+  left: 8200px;
+}
+.a26 {
+  position: relative;
+  left: 8900px;
+}
+.a27 {
+  position: relative;
+  left: 9600px;
+}
+.a28 {
+  position: relative;
+  left: 9600px;
+}
+.a29 {
+  position: relative;
+  left: 9600px;
+}
+.a30 {
+  position: relative;
+  left: 9600px;
+}
+.a31 {
+  position: relative;
+  left: 9600px;
+}
+.a32 {
+  position: relative;
+  left: 9600px;
+}
+.a33 {
+  position: relative;
+  left: 9600px;
+}
+.a34 {
+  position: relative;
+  left: 9600px;
+}
+.a35 {
+  position: relative;
+  left: 9600px;
+}
 .moyenage {
   position: relative;
   left: 400px;
@@ -164,6 +319,14 @@
 .classique {
   position: relative;
   left: 5600px;
+}
+.romantique {
+  position: relative;
+  left: 7800px;
+}
+.modern {
+  position: relative;
+  left: 10200px;
 }
 .class {
   margin-top: 100px;
@@ -203,4 +366,111 @@
   position: relative;
   left: 4200px;
   font-size: 70px;
+}
+.kanit-thin {
+  font-family: "Kanit", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.kanit-extralight {
+  font-family: "Kanit", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.kanit-light {
+  font-family: "Kanit", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.kanit-regular {
+  font-family: "Kanit", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.kanit-medium {
+  font-family: "Kanit", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.kanit-semibold {
+  font-family: "Kanit", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.kanit-bold {
+  font-family: "Kanit", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.kanit-extrabold {
+  font-family: "Kanit", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.kanit-black {
+  font-family: "Kanit", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.kanit-thin-italic {
+  font-family: "Kanit", sans-serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.kanit-extralight-italic {
+  font-family: "Kanit", sans-serif;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.kanit-light-italic {
+  font-family: "Kanit", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.kanit-regular-italic {
+  font-family: "Kanit", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.kanit-medium-italic {
+  font-family: "Kanit", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.kanit-semibold-italic {
+  font-family: "Kanit", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.kanit-bold-italic {
+  font-family: "Kanit", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.kanit-extrabold-italic {
+  font-family: "Kanit", sans-serif;
+  font-weight: 800;
+  font-style: italic;
+}
+
+.kanit-black-italic {
+  font-family: "Kanit", sans-serif;
+  font-weight: 900;
+  font-style: italic;
 }
